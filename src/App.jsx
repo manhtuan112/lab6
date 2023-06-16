@@ -18,9 +18,9 @@ const router = createBrowserRouter([
 function App() {
   return (
     <div className="App">
-      {/* <Bai1 /> */}
+      <Bai1 />
       {/* Bỏ comment dưới để chạy bài 2 */}
-      <RouterProvider router={router} />
+      {/* <RouterProvider router={router} /> */}
     </div>
   );
 }
